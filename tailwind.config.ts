@@ -13,6 +13,14 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        atlasSky: "#C3F9FD",
+        atlasSkyLight: "#EDF9FD",
+        atlasPurple: "#CFCEFF",
+        atlasPurpleLight: "#F1F0FF",
+        atlasYellow: "#FAE27C",
+        atlasYellowLight: "#FEFCE8",
+      },
     },
   },
   plugins: [],
